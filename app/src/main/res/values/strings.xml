@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">XML String</string>
+
+    <string name="read_string">Read String</string>
+
+    <string-array name="array_string">
+        <item>My Tab 1</item>
+        <item>My Tab 2</item>
+    </string-array>
+</resources>
